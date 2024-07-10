@@ -11,7 +11,7 @@ import Pic4 from './Components/Assets/Frame 427318444.svg';
 import star from './Components/Assets/star.svg';
 import Load from './Components/Load/Load';
 import Footer from './Components/Footer/Footer';
-import Checkout from './Components/Checkout/Checkout';
+
 
 
 
@@ -47,7 +47,6 @@ function App() {
     </main>
     <Load/>
     <Footer/>
-    <Checkout/>
     </div>
   );
 }
